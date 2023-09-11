@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishani-das
-- 👀 I’m interested in computer science, biology, and robotics
-- 🌱 I’m currently learning bioinformatics
-- 📫 How to reach me: ishanidas05@gmail.com
+- 👀 I’m interested in computer science, bioinformatics, and robotics
+- 🌱 I’m currently looking for software engineering opportunities
+- 📫 How to reach me: ishanid@umich.edu
 
 <!---
 ishani-das/ishani-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
