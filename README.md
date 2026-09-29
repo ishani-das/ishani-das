@@ -1,5 +1,5 @@
 - 👩🏽‍💻 Hi, I’m @ishani-das
-- 🌱 I’m interested in building tech for sustainability, accessibility, and fun. 
+- 🌱 I’m interested in building tech for sustainability, accessibility, and fun
 - 💌 How to reach me: ishanid@umich.edu
 
 <!---
